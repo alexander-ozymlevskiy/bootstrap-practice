@@ -1,0 +1,21 @@
+.header {
+  background-image: url("../img/top-banner.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  height: 50vh;
+  position: relative;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  filter: invert(100%);
+}
+
+.gradient-bg {
+	background: linear-gradient(to bottom, #ffffff, #87cefa, #ffffff, #87cefa, #ffffff, #87cefa);
+}
+
+.modal-content {
+	background: linear-gradient(to right, #2957a7, #1c5477);
+  }
