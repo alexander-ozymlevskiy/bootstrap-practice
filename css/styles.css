@@ -13,9 +13,17 @@
 }
 
 .gradient-bg {
-	background: linear-gradient(to bottom, #ffffff, #87cefa, #ffffff, #87cefa, #ffffff, #87cefa);
+  background: linear-gradient(
+    to bottom,
+    #ffffff,
+    #87cefa,
+    #ffffff,
+    #87cefa,
+    #ffffff,
+    #87cefa
+  );
 }
 
 .modal-content {
-	background: linear-gradient(to right, #2957a7, #1c5477);
-  }
+  background: linear-gradient(to right, #2957a7, #1c5477);
+}
